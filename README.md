@@ -24,7 +24,7 @@ A comprehensive Bash-based reconnaissance scanner that combines the power of mul
 ## 💾 Installation
 
 ```bash
-git clone https://github.com/NoIdea00/recon-scan-tool.git
+git clone https://github.com/NoIdea00/Reconnaissance_Scan-.git
 cd recon-scan-tool
 chmod +x recon-scan.sh
 ```
