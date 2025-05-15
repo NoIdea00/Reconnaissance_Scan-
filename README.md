@@ -70,7 +70,7 @@ MIT License
 
 ---
 
-### 🙌 Contributions Welcome
+### 🙌 Contributions
 
-Help improve this scanner! Submit bug reports or feature requests via issues or pull requests.
+No Thanks!
 
